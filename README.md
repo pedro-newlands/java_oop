@@ -1,11 +1,15 @@
-# POO-CEUB
-___Programação orientada a objetos java___
+# ***Fundamental concepts of Object-Oriented Programming:***
 
-__Noções de:__
-* Encapsulamento
-* Herança
-* Polimorfismo
-* Abstração
-* Interface
+- Encapsulation
+
+- Inheritance
+
+- Polymorphism
+
+- Abstraction
+
+- Interfaces
+
+> Using a pleasant example
 
 
