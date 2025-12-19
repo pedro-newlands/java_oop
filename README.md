@@ -10,6 +10,6 @@
 
 - Interfaces
 
-> Using a pleasant example
+> Using as an example a pleasant person with a skittish cat
 
 
