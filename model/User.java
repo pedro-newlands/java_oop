@@ -9,8 +9,6 @@ public class User {
         this.password = password;
     }
 
-    //getters and setters
-    
     public String getUsername(){
         return username;
     }
@@ -27,3 +25,4 @@ public class User {
         this.password = password;
     }
 }
+
